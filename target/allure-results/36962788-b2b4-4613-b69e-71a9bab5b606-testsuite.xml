@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1484892785668" stop="1484893214016" version="1.4.20" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : ShowApp</name>
+    <title>Default Suite : ShowApp</title>
+    <test-cases>
+        <test-case start="1484892787123" stop="1484892835074" status="passed">
+            <name>authFacebook:1/10 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="3040@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1484892836007" stop="1484892872310" status="passed">
+            <name>authFacebook:2/10 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="3040@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1484892873098" stop="1484892916441" status="passed">
+            <name>authFacebook:3/10 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="3040@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1484892917316" stop="1484892959634" status="passed">
+            <name>authFacebook:4/10 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="3040@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1484892960499" stop="1484893002035" status="passed">
+            <name>authFacebook:5/10 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="3040@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1484893003050" stop="1484893043477" status="passed">
+            <name>authFacebook:6/10 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="3040@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1484893044389" stop="1484893086953" status="passed">
+            <name>authFacebook:7/10 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="3040@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1484893087886" stop="1484893129005" status="passed">
+            <name>authFacebook:8/10 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="3040@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1484893129924" stop="1484893171364" status="passed">
+            <name>authFacebook:9/10 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="3040@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1484893172125" stop="1484893213079" status="passed">
+            <name>authFacebook:10/10 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="3040@PC012.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

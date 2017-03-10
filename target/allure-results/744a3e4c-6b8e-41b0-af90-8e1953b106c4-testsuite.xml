@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1485141193398" stop="1485142161215" version="1.4.20" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : ShowApp</name>
+    <title>Default Suite : ShowApp</title>
+    <test-cases>
+        <test-case start="1485141194822" stop="1485141242122" status="passed">
+            <name>authEmail:1/20 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="10184@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485141243234" stop="1485141291589" status="passed">
+            <name>authEmail:2/20 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="10184@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485141292637" stop="1485141339781" status="passed">
+            <name>authEmail:3/20 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="10184@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485141340720" stop="1485141397199" status="passed">
+            <name>authEmail:4/20 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="10184@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485141398566" stop="1485141443528" status="passed">
+            <name>authEmail:5/20 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="10184@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485141444457" stop="1485141490209" status="passed">
+            <name>authEmail:6/20 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="10184@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485141491175" stop="1485141538602" status="passed">
+            <name>authEmail:7/20 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="10184@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485141539665" stop="1485141587127" status="passed">
+            <name>authEmail:8/20 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="10184@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485141588268" stop="1485141635050" status="passed">
+            <name>authEmail:9/20 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="10184@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485141636245" stop="1485141683168" status="passed">
+            <name>authEmail:10/20 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="10184@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485141684168" stop="1485141728777" status="passed">
+            <name>authEmail:11/20 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="10184@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485141729872" stop="1485141775845" status="passed">
+            <name>authEmail:12/20 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="10184@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485141777012" stop="1485141823107" status="passed">
+            <name>authEmail:13/20 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="10184@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485141824333" stop="1485141871136" status="passed">
+            <name>authEmail:14/20 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="10184@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485141872264" stop="1485141918727" status="passed">
+            <name>authEmail:15/20 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="10184@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485141919740" stop="1485141967093" status="passed">
+            <name>authEmail:16/20 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="10184@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485141968187" stop="1485142014444" status="passed">
+            <name>authEmail:17/20 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="10184@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485142015566" stop="1485142063006" status="passed">
+            <name>authEmail:18/20 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="10184@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485142064062" stop="1485142111696" status="passed">
+            <name>authEmail:19/20 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="10184@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485142112755" stop="1485142160268" status="passed">
+            <name>authEmail:20/20 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="10184@PC012.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1487060781007" stop="1487061184848" version="1.4.20" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : ShowApp</name>
+    <title>Default Suite : ShowApp</title>
+    <test-cases>
+        <test-case start="1487060782335" stop="1487060825263" status="passed">
+            <name>loginVK:1/10 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="2228@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1487060826419" stop="1487060862335" status="passed">
+            <name>loginVK:2/10 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="2228@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1487060863303" stop="1487060898892" status="passed">
+            <name>loginVK:3/10 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="2228@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1487060900064" stop="1487060936744" status="passed">
+            <name>loginVK:4/10 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="2228@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1487060937916" stop="1487060996334" status="passed">
+            <name>loginVK:5/10 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="2228@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1487060997818" stop="1487061033850" status="passed">
+            <name>loginVK:6/10 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="2228@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1487061034756" stop="1487061070950" status="passed">
+            <name>loginVK:7/10 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="2228@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1487061072044" stop="1487061108443" status="passed">
+            <name>loginVK:8/10 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="2228@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1487061109756" stop="1487061145873" status="passed">
+            <name>loginVK:9/10 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="2228@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1487061147154" stop="1487061183692" status="passed">
+            <name>loginVK:10/10 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="2228@PC012.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

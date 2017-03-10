@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="BaseTestCase" verbose="1" >
+    <test name="TestMobile" >
+        <classes>
+            <!--<class name="autotest.android.suites.TestRegistration"/>-->
+            <class name="autotest.android.suites.TestAuthorization"/>
+            <class name="autotest.android.suites.TestRegistration"/>
+            <class name="autotest.android.suites.TestAutoTW"/>
+            <class name="autotest.android.suites.TestAutoVK"/>
+        </classes>
+    </test>
+</suite>

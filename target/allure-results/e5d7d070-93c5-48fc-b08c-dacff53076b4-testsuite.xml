@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1485492413282" stop="1485492650741" version="1.4.20" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : ShowApp</name>
+    <title>Default Suite : ShowApp</title>
+    <test-cases>
+        <test-case start="1485492414733" stop="1485492437708" status="passed">
+            <name>checkSubscribers:1/10 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="7500@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485492438894" stop="1485492461333" status="passed">
+            <name>checkSubscribers:2/10 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="7500@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485492462262" stop="1485492484492" status="passed">
+            <name>checkSubscribers:3/10 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="7500@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485492485356" stop="1485492507869" status="passed">
+            <name>checkSubscribers:4/10 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="7500@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485492508929" stop="1485492531753" status="passed">
+            <name>checkSubscribers:5/10 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="7500@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485492532635" stop="1485492554998" status="passed">
+            <name>checkSubscribers:6/10 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="7500@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485492555916" stop="1485492578821" status="passed">
+            <name>checkSubscribers:7/10 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="7500@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485492579832" stop="1485492602881" status="passed">
+            <name>checkSubscribers:8/10 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="7500@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485492603869" stop="1485492625997" status="passed">
+            <name>checkSubscribers:9/10 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="7500@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485492626895" stop="1485492649757" status="passed">
+            <name>checkSubscribers:10/10 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="7500@PC012.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

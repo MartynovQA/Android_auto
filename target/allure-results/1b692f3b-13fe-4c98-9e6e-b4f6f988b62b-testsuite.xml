@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1488530999724" stop="1488531058666" version="1.4.20" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : Showapp</name>
+    <title>Default Suite : Showapp</title>
+    <test-cases>
+        <test-case start="1488531001644" stop="1488531057954" status="passed">
+            <name>authEmail</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC-005-WS"/>
+                <label name="thread" value="5264@PC-005-WS.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1488531955282" stop="1488532051622" version="1.4.20" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : Showapp</name>
+    <title>Default Suite : Showapp</title>
+    <test-cases>
+        <test-case start="1488531957293" stop="1488532050615" status="passed">
+            <name>createEvent</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC-005-WS"/>
+                <label name="thread" value="6076@PC-005-WS.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

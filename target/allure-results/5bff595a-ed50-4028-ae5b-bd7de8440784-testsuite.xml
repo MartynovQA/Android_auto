@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1485334579572" stop="1485334767795" version="1.4.20" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : ShowApp</name>
+    <title>Default Suite : ShowApp</title>
+    <test-cases>
+        <test-case start="1485334581129" stop="1485334622455" status="passed">
+            <name>authEmail:1/4 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="2428@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485334623551" stop="1485334669903" status="passed">
+            <name>authEmail:2/4 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="2428@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485334670884" stop="1485334717096" status="passed">
+            <name>authEmail:3/4 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="2428@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1485334718019" stop="1485334766570" status="passed">
+            <name>authEmail:4/4 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="2428@PC012.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1487060282965" stop="1487060666548" version="1.4.20" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : ShowApp</name>
+    <title>Default Suite : ShowApp</title>
+    <test-cases>
+        <test-case start="1487060284385" stop="1487060329708" status="passed">
+            <name>authTwitter:1/10 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="8276@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1487060331411" stop="1487060362327" status="passed">
+            <name>authTwitter:2/10 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="8276@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1487060363517" stop="1487060397018" status="passed">
+            <name>authTwitter:3/10 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="8276@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1487060398317" stop="1487060435037" status="passed">
+            <name>authTwitter:4/10 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="8276@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1487060436415" stop="1487060473519" status="passed">
+            <name>authTwitter:5/10 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="8276@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1487060474831" stop="1487060511737" status="passed">
+            <name>authTwitter:6/10 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="8276@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1487060513159" stop="1487060553357" status="passed">
+            <name>authTwitter:7/10 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="8276@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1487060554522" stop="1487060587500" status="passed">
+            <name>authTwitter:8/10 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="8276@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1487060588922" stop="1487060627081" status="passed">
+            <name>authTwitter:9/10 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="8276@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1487060628227" stop="1487060665354" status="passed">
+            <name>authTwitter:10/10 100%</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="8276@PC012.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

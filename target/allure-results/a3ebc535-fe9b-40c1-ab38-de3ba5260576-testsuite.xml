@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1484714435759" stop="1484714593026" version="1.4.20" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : ShowApp</name>
+    <title>Default Suite : ShowApp</title>
+    <test-cases>
+        <test-case start="1484714437222" stop="1484714484341" status="passed">
+            <name>authEmail</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="10220@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1484714485317" stop="1484714513547" status="passed">
+            <name>authFacebook</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="10220@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1484714514477" stop="1484714553827" status="passed">
+            <name>authTwitter</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="10220@PC012.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1484714554873" stop="1484714592001" status="passed">
+            <name>loginVK</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC012"/>
+                <label name="thread" value="10220@PC012.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
